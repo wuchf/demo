@@ -1,0 +1,20 @@
+2018-12-20 18:28:31.521 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-20 18:29:23.035 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-20 18:31:36.895 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-20 18:37:34.082 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-20 18:42:06.327 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+2018-12-20 18:44:15.686 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+ScrollItemPattern is not supported!
+2018-12-21 10:34:05.422 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-21 10:35:19.791 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+2018-12-21 11:02:02.681 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+ScrollItemPattern is not supported!
+2018-12-21 14:38:15.260 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+ScrollItemPattern is not supported!
+2018-12-21 14:41:05.429 Function: start, Line: 38 -> 项目-TALLive.exe-已打开
+ScrollItemPattern is not supported!
